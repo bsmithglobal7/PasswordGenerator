@@ -124,5 +124,5 @@ function randomSymbols() {
         console.log(password); 
     }
 }
-
+console.log( "Hello");
 */ 
